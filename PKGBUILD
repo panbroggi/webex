@@ -1,4 +1,4 @@
-pkgname=webex-bin
+pkgname=webex
 pkgver=41.5.0.18911
 pkgrel=1
 pkgdesc="Webex for Linux"
